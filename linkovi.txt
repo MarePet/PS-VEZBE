@@ -1,0 +1,11 @@
+https://stackoverflow.com/questions/6062192/there-is-already-an-open-datareader-associated-with-this-command-which-must-be-c 
+https://www.csharp-console-examples.com/winform/deleting-selected-row-in-datagridview-in-c-by-using-button/ brisanje iz DGV
+https://docs.microsoft.com/en-us/troubleshoot/sql/ssms/error-when-you-save-table
+neke osnovne sql naredbe
+https://www.w3schools.com/sql/sql_delete.asp
+https://www.w3schools.com/sql/sql_update.asp
+https://www.w3schools.com/sql/sql_insert.asp
+https://www.w3schools.com/sql/sql_orderby.asp
+https://www.w3schools.com/sql/sql_join.asp
+https://www.w3schools.com/sql/sql_unique.asp
+https://stackoverflow.com/questions/19956533/sql-insert-query-using-c-sharp (parametarsko ubacivanje)
